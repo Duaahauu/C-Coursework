@@ -1,0 +1,10 @@
+C:\Users\minhc\source\repos\CW\CW\bin\Debug\CW.exe.config
+C:\Users\minhc\source\repos\CW\CW\bin\Debug\CW.exe
+C:\Users\minhc\source\repos\CW\CW\bin\Debug\CW.pdb
+C:\Users\minhc\source\repos\CW\CW\obj\Debug\CW.csproj.AssemblyReference.cache
+C:\Users\minhc\source\repos\CW\CW\obj\Debug\CW.Properties.Resources.resources
+C:\Users\minhc\source\repos\CW\CW\obj\Debug\CW.csproj.GenerateResource.cache
+C:\Users\minhc\source\repos\CW\CW\obj\Debug\CW.csproj.CoreCompileInputs.cache
+C:\Users\minhc\source\repos\CW\CW\obj\Debug\CW.exe
+C:\Users\minhc\source\repos\CW\CW\obj\Debug\CW.pdb
+C:\Users\minhc\source\repos\CW\CW\obj\Debug\CW.Form1.resources
